@@ -25,3 +25,4 @@ figcaption{
 .css-ytnozr :hover {
   color: rgb (240, 191, 76)
 }
+.page-content .ol .li a { text-decoration: revert !important };
