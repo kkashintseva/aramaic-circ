@@ -26,3 +26,4 @@ figcaption{
   color: rgb (240, 191, 76)
 }
 .page-content .ol .li a { text-decoration: underline !important };
+a { text-decoration: revert !important };
